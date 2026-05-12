@@ -112,14 +112,6 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
 
 ---
 
-# ⚡ Fun Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 🎵 Coding Vibes
 
 <p align="center">
