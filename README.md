@@ -58,7 +58,7 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,vue,nuxtjs,nodejs,express,mongodb,docker,git,ps,pr,windows,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,vue,nuxtjs,nodejs,express,mongodb,git,ps,pr,vscode" />
 
 </p>
 
@@ -84,14 +84,6 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HosseinzGTX7&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">
@@ -108,14 +100,6 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HosseinzGTX7/HosseinzGTX7/output/github-contribution-grid-snake.svg">
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/HosseinzGTX7/HosseinzGTX7/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
----
-
-# 🎵 Coding Vibes
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
 </p>
 
 ---
