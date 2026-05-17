@@ -30,30 +30,6 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/HosseinzGTX7">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/HosseinzGTX7">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/HosseinzGTX7">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
 # 🧠 Tech Stack
 
 <p align="center">
@@ -100,6 +76,30 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HosseinzGTX7/HosseinzGTX7/output/github-contribution-grid-snake.svg">
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/HosseinzGTX7/HosseinzGTX7/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/HosseinzGTX7">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/HosseinzGTX7">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/HosseinzGTX7">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
