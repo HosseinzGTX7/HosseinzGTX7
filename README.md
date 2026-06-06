@@ -92,10 +92,6 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://twitter.com/HosseinzGTX7">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
