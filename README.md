@@ -34,7 +34,7 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,vue,nuxtjs,nodejs,express,mongodb,git,ps,pr,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,vue,nuxtjs,react,nextjs,nodejs,express,mongodb,git,ps,pr,vscode" />
 
 </p>
 
