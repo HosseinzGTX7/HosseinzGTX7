@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=I’m%20Hossein&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=I’m%20Hossein&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Developer%20&descAlignY=55&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
@@ -38,17 +38,16 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
 
 </p>
 
----
 
-# 📊 GitHub Stats
+<!--# 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HosseinzGTX7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HosseinzGTX7&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
@@ -58,13 +57,12 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
 <img src="https://streak-stats.demolab.com?user=HosseinzGTX7&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-# 📈 Activity Graph
+<!--# 📈 Activity Graph
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HosseinzGTX7&theme=tokyo-night"/>
-</p>
+</p> -->
 
 ---
 
@@ -88,11 +86,7 @@ What truly excites me is the intersection of **creativity and technology**. I'm 
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/HosseinzGTX7">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:hzahmatkesh.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
